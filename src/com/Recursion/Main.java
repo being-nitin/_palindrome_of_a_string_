@@ -21,3 +21,4 @@ public class Main {
 }
 // start will iterate the string from index 0 to last index:
 // end will iterate the string from last index to index 0:
+// in every step it will compare start and end, will compare it in each iteration.
