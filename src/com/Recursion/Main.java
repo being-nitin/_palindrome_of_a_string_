@@ -19,4 +19,5 @@ public class Main {
         return false;
     }
 }
-// 
+// start will iterate the string from index 0 to last index:
+// end will iterate the string from last index to index 0:
